@@ -1,0 +1,23 @@
+#heading
+{
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(49, 4, 4);
+}
+#text
+{
+    text-indent: 2%;
+    font-size: large;
+    color: white;
+}
+p
+{
+    text-indent: 2%;
+    font-size: large;
+    color: white;
+
+}
+body
+{
+    background-color: black;
+}
